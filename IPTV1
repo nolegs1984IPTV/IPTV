@@ -1,4 +1,17 @@
 #EXTM3U
+#EXTINF:-1,UK | BT SPORTS 1 HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21821.m3u8
+#EXTINF:-1,UK | BT SPORTS 2 HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21820.m3u8
+#EXTINF:-1,UK | BT SPORTS 3 HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21819.m3u8
+#EXTINF:-1,UK | BT SPORTS ESPN HD
+#EXTINF:-1,UK | BT SPORTS FHD 1
+http://shacktv.com:8080/live/Chuck1/Chuck123/21812.m3u8
+#EXTINF:-1,UK | BT SPORTS FHD 2
+http://shacktv.com:8080/live/Chuck1/Chuck123/21811.m3u8
+#EXTINF:-1,UK | BT SPORTS FHD 3
+http://shacktv.com:8080/live/Chuck1/Chuck123/21810.m3u8
 #EXTINF:-1,UK | Sky Sports Mix HD
 http://iptv.wtf:80/live/ssoeunmw/c8lu1nZL33/18483.m3u8
 #EXTINF:-1,UK | Sky Sports F1 HD
