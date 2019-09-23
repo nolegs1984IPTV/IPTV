@@ -96,3 +96,25 @@ http://shacktv.com:8080/live/Chuck1/Chuck123/221.m3u8
 http://shacktv.com:8080/live/Lazaro/Lazaro123/163.m3u8
 #EXTINF:-1,US: NBCSN HD
 http://forever.moppie.info:7444/live/amerusaasKa/jQJxUR0PkA/3548.m3u8
+#EXTINF:-1,SKY SPORTS ACTION FHD
+http://ppvplug.net:8000/live/XDxC3D6vic/OZoc5723hi/50189.m3u8
+#EXTINF:-1,SKY SPORTS ARENA FHD
+http://ppvplug.net:8000/live/XDxC3D6vic/OZoc5723hi/50188.m3u8
+#EXTINF:-1,SKY SPORTS CRICKET FHD
+http://ppvplug.net:8000/live/XDxC3D6vic/OZoc5723hi/50187.m3u8
+#EXTINF:-1,SKY SPORTS F1 FHD
+http://ppvplug.net:8000/live/XDxC3D6vic/OZoc5723hi/50186.m3u8
+#EXTINF:-1,SKY SPORTS FOOTBALL FHD
+http://ppvplug.net:8000/live/XDxC3D6vic/OZoc5723hi/50185.m3u8
+#EXTINF:-1,SKY SPORTS GOLF FHD
+http://ppvplug.net:8000/live/XDxC3D6vic/OZoc5723hi/50184.m3u8
+#EXTINF:-1,SKY SPORTS MAIN EVENT FHD
+http://ppvplug.net:8000/live/XDxC3D6vic/OZoc5723hi/50183.m3u8
+#EXTINF:-1,SKY SPORTS NEWS FHD
+http://ppvplug.net:8000/live/XDxC3D6vic/OZoc5723hi/50181.m3u8
+#EXTINF:-1,SKY SPORTS PREMIER LEAGUE FHD
+http://ppvplug.net:8000/live/XDxC3D6vic/OZoc5723hi/50180.m3u8
+#EXTINF:-1,SKY SPORTS RACING FHD
+http://ppvplug.net:8000/live/XDxC3D6vic/OZoc5723hi/79691.m3u8
+#EXTINF:-1,SKY SPORTS ARENA HD
+http://ppvplug.net:8000/live/XDxC3D6vic/OZoc5723hi/50178.m3u8
