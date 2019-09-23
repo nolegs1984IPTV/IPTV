@@ -12,8 +12,6 @@ http://shacktv.com:8080/live/Chuck1/Chuck123/21812.m3u8
 http://shacktv.com:8080/live/Chuck1/Chuck123/21811.m3u8
 #EXTINF:-1,UK | BT SPORTS FHD 3
 http://shacktv.com:8080/live/Chuck1/Chuck123/21810.m3u8
-EXTINF:-1,UK | SKY SPORTS PREMIER LEAGUE HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21793.m3u8
 #EXTINF:-1,UK | SKY SPORTS FHD PREMIER LEAGUE
 http://shacktv.com:8080/live/Chuck1/Chuck123/21787.m3u8
 #EXTINF:-1,UK | Sky Sports Mix HD
@@ -64,3 +62,5 @@ http://shacktv.com:8080/live/Chuck1/Chuck123/21704.m3u8
 http://shacktv.com:8080/live/Chuck1/Chuck123/21703.m3u8
 #EXTINF:-1,UK | SKY CINEMA THRILLER HD
 http://shacktv.com:8080/live/Chuck1/Chuck123/21798.m3u8
+EXTINF:-1,UK | SKY SPORTS PREMIER LEAGUE HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21793.m3u8
