@@ -152,3 +152,11 @@ http://landiptv.live:8080/live/BRyfu1sUQk/tle8En9CqU/74491.m3u8
 http://landiptv.live:8080/live/BRyfu1sUQk/tle8En9CqU/124390.m3u8
 #EXTINF:-1,UK: UK-Sky Sports F1
 http://landiptv.live:8080/live/BRyfu1sUQk/tle8En9CqU/247516.m3u8
+#EXTINF:-1,USA | FOX SPORTS 1 HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/216.m3u8
+#EXTINF:-1,USA | FOX SPORTS 2 HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/215.m3u8
+#EXTINF:-1,USA | FOX SPORTS 1 HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/216.m3u8
+#EXTINF:-1,USA | FOX SPORTS 2 HD
+http://shacktv.com:8080/live/Lazaro/Lazaro123/215.m3u8
