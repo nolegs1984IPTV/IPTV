@@ -1,162 +1,65 @@
 #EXTM3U
-#EXTINF:-1,UK | BT SPORTS 1 HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21821.m3u8
-#EXTINF:-1,UK | BT SPORTS 2 HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21820.m3u8
-#EXTINF:-1,UK | BT SPORTS 3 HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21819.m3u8
-#EXTINF:-1,UK | BT SPORTS ESPN HD
-#EXTINF:-1,UK | BT SPORTS FHD 1
-http://shacktv.com:8080/live/Chuck1/Chuck123/21812.m3u8
-#EXTINF:-1,UK | BT SPORTS FHD 2
-http://shacktv.com:8080/live/Chuck1/Chuck123/21811.m3u8
-#EXTINF:-1,UK | BT SPORTS FHD 3
-http://shacktv.com:8080/live/Chuck1/Chuck123/21810.m3u8
-#EXTINF:-1,UK | SKY SPORTS FOOTBALL HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21714.m3u8
-#EXTINF:-1,UK | SKY SPORTS PREMIER LEAGUE HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21793.m3u8
-#EXTINF:-1,UK | SKY SPORTS FHD PREMIER LEAGUE
-http://shacktv.com:8080/live/Chuck1/Chuck123/21787.m3u8
-#EXTINF:-1,UK | Sky Sports Mix HD
-http://iptv.wtf:80/live/ssoeunmw/c8lu1nZL33/18483.m3u8
-#EXTINF:-1,UK | Sky Sports F1 HD
-http://iptv.wtf:80/live/ssoeunmw/c8lu1nZL33/19558.m3u8
-#EXTINF:-1,UK | SKY CINEMA ACTION HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21809.m3u8
-#EXTINF:-1,UK | SKY CINEMA ACTION MEN FHD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21713.m3u8
-#EXTINF:-1,UK | SKY CINEMA COMEDY FHD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21712.m3u8
-#EXTINF:-1,UK | SKY CINEMA COMEDY HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21808.m3u8
-#EXTINF:-1,UK | SKY CINEMA DISNEY FHD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21711.m3u8
-#EXTINF:-1,UK | SKY CINEMA DISNEY HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21807.m3u8
-#EXTINF:-1,UK | SKY CINEMA DRAMA FHD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21710.m3u8
-#EXTINF:-1,UK | SKY CINEMA DRAMA HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21806.m3u8
-#EXTINF:-1,UK | SKY CINEMA FAMILY FHD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21709.m3u8
-#EXTINF:-1,UK | SKY CINEMA FAMILY HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21805.m3u8
-#EXTINF:-1,UK | SKY CINEMA GREATS FHD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21708.m3u8
-#EXTINF:-1,UK | SKY CINEMA GREATS HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21799.m3u8
-#EXTINF:-1,UK | SKY CINEMA HEROES HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21804.m3u8
-#EXTINF:-1,UK | SKY CINEMA HITS FHD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21707.m3u8
-#EXTINF:-1,UK | SKY CINEMA HITS HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21803.m3u8
-#EXTINF:-1,UK | SKY CINEMA PREMIER FHD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21706.m3u8
-#EXTINF:-1,UK | SKY CINEMA PREMIERE HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21802.m3u8
-#EXTINF:-1,UK | SKY CINEMA SCI-FI HORROR FHD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21705.m3u8
-#EXTINF:-1,UK | SKY CINEMA SCI-FI HORROR HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21801.m3u8
-#EXTINF:-1,UK | SKY CINEMA SELECT FHD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21704.m3u8
-#EXTINF:-1,UK | SKY CINEMA THRILLER FHD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21703.m3u8
-#EXTINF:-1,UK | SKY CINEMA THRILLER HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21798.m3u8
-#EXTINF:-1,UK | ANIMAL PLANET FHD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21676.m3u8
-#EXTINF:-1,UK | ANIMAL PLANET HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21774.m3u8
-#EXTINF:-1,UK | BBC 1 HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21772.m3u8
-#EXTINF:-1,UK | BBC 2 HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21771.m3u8
-#EXTINF:-1,UK | BBC 3 / CBBC HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21770.m3u8
-#EXTINF:-1,UK | ITV BE HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21753.m3u8
-#EXTINF:-1,UK | ITV HD 1
-http://shacktv.com:8080/live/Chuck1/Chuck123/21752.m3u8
-#EXTINF:-1,UK | ITV HD 2
-http://shacktv.com:8080/live/Chuck1/Chuck123/21751.m3u8
-#EXTINF:-1,UK | ITV HD 3
-http://shacktv.com:8080/live/Chuck1/Chuck123/21750.m3u8
-#EXTINF:-1,UK | ITV HD 4
-http://shacktv.com:8080/live/Chuck1/Chuck123/21749.m3u8
-#EXTINF:-1,USA | FOX SPORTS 1 HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/216.m3u8
-#EXTINF:-1,USA | FOX SPORTS 2 HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/215.m3u8
-#EXTINF:-1,USA | ELEVEN SPORTS HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/221.m3u8
-#EXTINF:-1,USA | NBCSN HD
-http://shacktv.com:8080/live/Lazaro/Lazaro123/163.m3u8
-#EXTINF:-1,US: NBCSN HD
-http://forever.moppie.info:7444/live/amerusaasKa/jQJxUR0PkA/3548.m3u8
-#EXTINF:-1,SKY SPORTS ACTION FHD
-http://ppvplug.net:8000/live/XDxC3D6vic/OZoc5723hi/50189.m3u8
-#EXTINF:-1,SKY SPORTS ARENA FHD
-http://ppvplug.net:8000/live/XDxC3D6vic/OZoc5723hi/50188.m3u8
-#EXTINF:-1,SKY SPORTS CRICKET FHD
-http://ppvplug.net:8000/live/XDxC3D6vic/OZoc5723hi/50187.m3u8
-#EXTINF:-1,SKY SPORTS F1 FHD
-http://ppvplug.net:8000/live/XDxC3D6vic/OZoc5723hi/50186.m3u8
-#EXTINF:-1,SKY SPORTS FOOTBALL FHD
-http://ppvplug.net:8000/live/XDxC3D6vic/OZoc5723hi/50185.m3u8
-#EXTINF:-1,SKY SPORTS GOLF FHD
-http://ppvplug.net:8000/live/XDxC3D6vic/OZoc5723hi/50184.m3u8
-#EXTINF:-1,SKY SPORTS MAIN EVENT FHD
-http://ppvplug.net:8000/live/XDxC3D6vic/OZoc5723hi/50183.m3u8
-#EXTINF:-1,SKY SPORTS NEWS FHD
-http://ppvplug.net:8000/live/XDxC3D6vic/OZoc5723hi/50181.m3u8
-#EXTINF:-1,SKY SPORTS PREMIER LEAGUE FHD
-http://ppvplug.net:8000/live/XDxC3D6vic/OZoc5723hi/50180.m3u8
-#EXTINF:-1,SKY SPORTS RACING FHD
-http://ppvplug.net:8000/live/XDxC3D6vic/OZoc5723hi/79691.m3u8
-#EXTINF:-1,SKY SPORTS ARENA HD
-http://ppvplug.net:8000/live/XDxC3D6vic/OZoc5723hi/50178.m3u8
-#EXTINF:-1,UK | BT SPORTS 1 HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21821.m3u8
-#EXTINF:-1,UK | BT SPORTS 2 HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21820.m3u8
-#EXTINF:-1,UK | BT SPORTS 3 HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21819.m3u8
-#EXTINF:-1,UK | BT SPORTS ESPN HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21818.m3u8
-#EXTINF:-1,UK | SKY SPORTS ACTION HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21795.m3u8
-#EXTINF:-1,UK | SKY SPORTS F1 HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21792.m3u8
-#EXTINF:-1,UK | SKY SPORTS F1 FHD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21786.m3u8
-#EXTINF:-1,UK | SKY SPORTS FHD FOOTBALL
-http://shacktv.com:8080/live/Chuck1/Chuck123/21717.m3u8
-#EXTINF:-1,UK | SKY SPORTS MAIN EVENT FHD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21791.m3u8
-#EXTINF:-1,UK | SKY SPORTS FHD PREMIER LEAGUE
-http://shacktv.com:8080/live/Chuck1/Chuck123/21787.m3u8
-#EXTINF:-1,UK | SKY SPORTS FOOTBALL HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21714.m3u8
-#EXTINF:-1,UK | SKY SPORTS MAIN EVENT HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21797.m3u8
-#EXTINF:-1,UK | SKY SPORTS PREMIER LEAGUE HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/21793.m3u8
-#EXTINF:-1,UK: BT Sport 2 FHD
-http://landiptv.live:8080/live/BRyfu1sUQk/tle8En9CqU/92581.m3u8
-#EXTINF:-1,UK: Sky Sports Football FHD
-http://landiptv.live:8080/live/BRyfu1sUQk/tle8En9CqU/74491.m3u8
-#EXTINF:-1,UK: ELEVEN SPORTS 1 HD
-http://landiptv.live:8080/live/BRyfu1sUQk/tle8En9CqU/124390.m3u8
-#EXTINF:-1,UK: UK-Sky Sports F1
-http://landiptv.live:8080/live/BRyfu1sUQk/tle8En9CqU/247516.m3u8
-#EXTINF:-1,USA | FOX SPORTS 1 HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/216.m3u8
-#EXTINF:-1,USA | FOX SPORTS 2 HD
-http://shacktv.com:8080/live/Chuck1/Chuck123/215.m3u8
-#EXTINF:-1,USA | FOX SPORTS 1 HD
-http://shacktv.com:8080/live/Lazaro/Lazaro123/216.m3u8
-#EXTINF:-1,USA | FOX SPORTS 2 HD
-http://shacktv.com:8080/live/Lazaro/Lazaro123/215.m3u8
+#EXTINF:-1,##### |UK| SKY SPORTS |HD| #####
+http://line.myott.net:80/live/wVtMKMJrQC/yOqxLjLufq/72663.m3u8
+#EXTINF:-1,|UK| HD SKY SPORTS NEWS
+http://line.myott.net:80/live/wVtMKMJrQC/yOqxLjLufq/72654.m3u8
+#EXTINF:-1,|UK| HD SKY SPORTS PREMIER LEAGUE
+http://line.myott.net:80/live/wVtMKMJrQC/yOqxLjLufq/72653.m3u8
+#EXTINF:-1,|UK| HD SKY SPORTS ACTION
+http://line.myott.net:80/live/wVtMKMJrQC/yOqxLjLufq/88131.m3u8
+#EXTINF:-1,|UK| HD SKY SPORTS MAIN EVENT
+http://line.myott.net:80/live/wVtMKMJrQC/yOqxLjLufq/72656.m3u8
+#EXTINF:-1,|UK| HD SKY SPORTS FOOTBALL
+http://line.myott.net:80/live/wVtMKMJrQC/yOqxLjLufq/72658.m3u8
+#EXTINF:-1,|UK| HD SKY SPORTS ARENA
+http://line.myott.net:80/live/wVtMKMJrQC/yOqxLjLufq/72661.m3u8
+#EXTINF:-1,|UK| HD SKY SPORTS CRICKET
+http://line.myott.net:80/live/wVtMKMJrQC/yOqxLjLufq/72660.m3u8
+#EXTINF:-1,|UK| HD SKY SPORTS F1
+http://line.myott.net:80/live/wVtMKMJrQC/yOqxLjLufq/72659.m3u8
+#EXTINF:-1,|UK| HD SKY SPORTS GOLF
+http://line.myott.net:80/live/wVtMKMJrQC/yOqxLjLufq/72657.m3u8
+#EXTINF:-1,|UK| HD SKY SPORTS RACING
+http://line.myott.net:80/live/wVtMKMJrQC/yOqxLjLufq/72652.m3u8
+#EXTINF:-1,|UK| HD SKY SPORTS MIX
+http://line.myott.net:80/live/wVtMKMJrQC/yOqxLjLufq/72665.m3u8
+#EXTINF:-1,|UK| CELTIC.FC HD (ONLY DURING LIVE MATCHES)
+http://line.myott.net:80/live/wVtMKMJrQC/yOqxLjLufq/89494.m3u8
+#EXTINF:-1,##### |UK| SKY SPORTS |SD| #####
+http://line.myott.net:80/live/wVtMKMJrQC/yOqxLjLufq/72662.m3u8
+#EXTINF:-1,|UK| SD SKY SPORTS NEWS
+http://line.myott.net:80/live/wVtMKMJrQC/yOqxLjLufq/46409.m3u8
+#EXTINF:-1,|UK| SD SKY SPORTS PREMIER LEAGUE
+http://line.myott.net:80/live/wVtMKMJrQC/yOqxLjLufq/46401.m3u8
+#EXTINF:-1,|UK| SD SKY SPORTS ACTION
+http://line.myott.net:80/live/wVtMKMJrQC/yOqxLjLufq/46408.m3u8
+#EXTINF:-1,|UK| SD SKY SPORTS MAIN EVENT
+http://line.myott.net:80/live/wVtMKMJrQC/yOqxLjLufq/46402.m3u8
+#EXTINF:-1,|UK| SD SKY SPORTS FOOTBALL
+http://line.myott.net:80/live/wVtMKMJrQC/yOqxLjLufq/46404.m3u8
+#EXTINF:-1,|UK| SD SKY SPORTS ARENA
+http://line.myott.net:80/live/wVtMKMJrQC/yOqxLjLufq/46407.m3u8
+#EXTINF:-1,|UK| SD SKY SPORTS CRICKET
+http://line.myott.net:80/live/wVtMKMJrQC/yOqxLjLufq/46406.m3u8
+#EXTINF:-1,|UK| SD SKY SPORTS F1
+http://line.myott.net:80/live/wVtMKMJrQC/yOqxLjLufq/46405.m3u8
+#EXTINF:-1,|UK| SD SKY SPORTS GOLF
+http://line.myott.net:80/live/wVtMKMJrQC/yOqxLjLufq/46403.m3u8
+#EXTINF:-1,##### |UK| SKY SPORTS |FHD| #####
+http://line.myott.net:80/live/wVtMKMJrQC/yOqxLjLufq/72664.m3u8
+#EXTINF:-1,|UK| FHD SKY SPORTS PREMIER LEAGUE
+http://line.myott.net:80/live/wVtMKMJrQC/yOqxLjLufq/18038.m3u8
+#EXTINF:-1,|UK| FHD SKY SPORTS ACTION
+http://line.myott.net:80/live/wVtMKMJrQC/yOqxLjLufq/18045.m3u8
+#EXTINF:-1,|UK| FHD SKY SPORTS MAIN EVENT
+http://line.myott.net:80/live/wVtMKMJrQC/yOqxLjLufq/18039.m3u8
+#EXTINF:-1,|UK| FHD SKY SPORTS FOOTBALL
+http://line.myott.net:80/live/wVtMKMJrQC/yOqxLjLufq/18041.m3u8
+#EXTINF:-1,|UK| FHD SKY SPORTS ARENA
+http://line.myott.net:80/live/wVtMKMJrQC/yOqxLjLufq/18044.m3u8
+#EXTINF:-1,|UK| FHD SKY SPORTS CRICKET
+http://line.myott.net:80/live/wVtMKMJrQC/yOqxLjLufq/18043.m3u8
+#EXTINF:-1,|UK| FHD SKY SPORTS F1
+http://line.myott.net:80/live/wVtMKMJrQC/yOqxLjLufq/18042.m3u8
+#EXTINF:-1,|UK| FHD SKY SPORTS GOLF
+http://line.myott.net:80/live/wVtMKMJrQC/yOqxLjLufq/18040.m3u8
